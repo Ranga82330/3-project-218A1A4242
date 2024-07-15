@@ -1,0 +1,98 @@
+nav{
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding:0
+}
+nav ul li{
+    font-size: x-large;
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a{
+    color: aliceblue;
+    text-decoration:none ;
+}
+nav ul li A:hover{
+    text-decoration: underline;
+}
+section{
+    padding: 20px;
+}
+.ccolor{
+    color: red;
+}
+.sri,ul,a{
+    color: #e30b0b;
+}
+.sri,a{
+    color: black;
+    font-weight: 900;
+}
+.webcolor,webfont{
+    color: #e30b0b;
+}
+.font{
+color: #e30b0b;
+}
+.mainbody{
+  background-image: url(new1.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% ;
+}
+footer{
+        position: fixed;
+        padding: 10px 10px 0px 10px;
+        bottom: 0;
+        width: 100%;
+        height: 40px;
+        background:#2858de;
+        color: white;
+
+}
+section{
+    color:rgb(247, 36, 9);
+}
+.new{
+    color: rgb(42, 9, 226);
+}
+a:hover{
+    background-color: #2858de;
+    padding: 10px;
+    border-radius: 40px;
+}
+.google-map {
+    padding-bottom: 50%;
+    position: relative;
+}
+
+.google-map iframe {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+
