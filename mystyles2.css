@@ -43,8 +43,8 @@ color: #e30b0b;
   background-image: url(new1.jpeg);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 100% ;
   background-attachment: fixed;
+  background-size: 100% ;
 }
 footer{
         position: fixed;
